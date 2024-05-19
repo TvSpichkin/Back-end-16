@@ -1,0 +1,11 @@
+# зависимости
+/node_modules
+/.vs
+
+# производство
+/bin
+
+# разное
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
