@@ -1,6 +1,5 @@
 import запрос = require("supertest"); // костыль от "can only be default-imported using the 'esModuleInterop' flag"
 import {пр} from "../../ист/прил";
-import {МодельВидаЧастицы} from "../../ист/модели/МодельВидаЧастицы";
 import {МодельСозданияЧастицы} from "../../ист/модели/МодельСозданияЧастицы";
 import {МодельОбновленияЧастицы} from "../../ист/модели/МодельОбновленияЧастицы";
 
